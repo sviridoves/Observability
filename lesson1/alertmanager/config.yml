@@ -17,4 +17,4 @@ receivers:
   - name: 'telegram'
     webhook_configs:
     - send_resolved: True
-      url: http://telegram-alertmanager-bot:9087/alert/808512577
+      url: http://telegram-alertmanager-bot:9087/alert/44681506
